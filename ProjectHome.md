@@ -1,0 +1,1 @@
+This is a project to add pdf417 support to zxing
